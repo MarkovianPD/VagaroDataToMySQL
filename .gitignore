@@ -1,1 +1,6 @@
 environments/
+.env
+.idea/
+data-lake-downloads/
+problems-for-project-readme.txt
+steps-for-mysql-database-creation.txt
